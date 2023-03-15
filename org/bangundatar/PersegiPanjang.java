@@ -1,5 +1,5 @@
 /**
- * File      : Segitiga.java		08/03/23
+ * File      : PersegiPanjang.java		08/03/23
  * Penulis   : Wahyu Arif Maulana
  * NIM       : 24060120120018
  * Deskripsi : representasi dasar dari objek persegi panjang,turunan kelas poligon
